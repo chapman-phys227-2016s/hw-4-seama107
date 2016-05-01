@@ -1,8 +1,8 @@
 # PHYS227 HW 4
 
-**Author:** _\<your name\>_
+**Author:** Michael Seaman
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-4-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-4-YOURNAME)
+(No Tests)
 
 **Due date:** 2016/03/1
 
@@ -14,7 +14,7 @@ The notebook should be formatted professionally using Markdown headings, includi
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+This Assignment really shows how powerful the pandas library is. It seems it would be incredibly helpful to any data scientist for some preliminary data exploration.
 
 ## Honor Pledge
 
@@ -25,4 +25,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Michael Seaman
