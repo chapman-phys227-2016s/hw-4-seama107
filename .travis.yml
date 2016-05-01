@@ -5,6 +5,5 @@ python:
 install: "pip install pylint sympy matplotlib"
 # command to run tests
 script:
-  - "nosetests *.py"
 notifications:
   email: false
